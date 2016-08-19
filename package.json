@@ -1,0 +1,24 @@
+{
+  "name": "1_chat_app",
+  "version": "1.0.0",
+  "description": "First project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianBurnsUnbounce/1_chat_app.git"
+  },
+  "author": "Brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianBurnsUnbounce/1_chat_app/issues"
+  },
+  "homepage": "https://github.com/BrianBurnsUnbounce/1_chat_app#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "latest",
+    "jade": "latest"
+  }
+}
